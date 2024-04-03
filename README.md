@@ -9,7 +9,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://lanyard.cnrad.dev/api/882178506228891669"  />
 </div>
 
