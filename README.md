@@ -12,9 +12,8 @@
 <div align="left">
   <img height="200" src="https://lanyard.cnrad.dev/api/882178506228891669"  />
 </div>
-<br><br>
 ###
-
+<br><br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
