@@ -10,7 +10,7 @@
 ###
 
 <div align="left">
-  <img height="200" src="https://lanyard.cnrad.dev/api/882178506228891669"  />
+  <img height="200" src="https://lanyard.cnrad.dev/api/882178506228891669?borderRadius=20px&bg=00000000"  />
 </div>
 
 ###
